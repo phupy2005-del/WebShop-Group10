@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     subgraph User_Input [Input Layer]
         A["User Query - Tiếng Việt"]
